@@ -1,4 +1,4 @@
- **DRY**
+-  **DRY**
 	- The DRY principle, or “Don’t Repeat Yourself”, is a software development principle that aims to reduce the amount of duplicate code and logic in a system. 
 	- So that code will be open for readability, extensibility, maintainability.
 - **YAGNI**

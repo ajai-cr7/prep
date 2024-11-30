@@ -4,4 +4,8 @@
 (Useful in Machine Coding round where i can run application in local and see demo and coding)
 
 - https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles
+
 (Buying the course during black friday sale!)
+
+(Its structured and also thought it has 25+ Problems which will fill my current knowledge gap! Should take notes here and Revise!)
+(It also has UML diagrams)

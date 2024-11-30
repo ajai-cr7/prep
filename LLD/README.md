@@ -1,5 +1,7 @@
 **Resources**:
 
-- https://github.com/ashishps1/awesome-low-level-design/tree/main
+- https://github.com/ashishps1/awesome-low-level-design/tree/main 
+(Useful in Machine Coding round where i can run application in local and see demo and coding)
+
 - https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles
 (Buying the course during black friday sale!)

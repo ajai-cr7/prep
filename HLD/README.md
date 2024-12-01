@@ -5,3 +5,4 @@
 - https://interviewready.io/ (Good)
 - https://bytebytego.com/
 - https://github.com/donnemartin/system-design-primer
+- https://www.educative.io/courses/grokking-the-system-design-interview (Bought this blog course during black friday sale 2024,it looks good)

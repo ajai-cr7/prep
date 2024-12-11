@@ -10,6 +10,8 @@
 (Its structured and also thought it has 25+ Problems which will fill my current knowledge gap! Should take notes here and Revise!)
 (It also has UML diagrams)
 
+- interviewready.io --> Gaurav sen course!
+
 Others :
 - https://www.naukri.com/code360/library/low-level-design-lld (Beginner friendly with blogs explaining everything!)
 - https://leetcode.com/discuss/interview-question/object-oriented-design?currentPage=1&orderBy=hot&query= --> See Recent questions asked and also exact questions asked in interview!

@@ -48,6 +48,11 @@ So correct way is to define something like
     
 	- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcbjTkmWGlFiZ3teC_NlU9Q-EQz_u6gpCZJHUTo9p9FcGBnQBhtVwFRT1tcegr_4WQkyO6cZhO6bMsCIQXjaSDJUrJ-T_cfxSKbHVnNRWui3woJpZdykEuqy9DZ0B5de78CJFZseMKq6Ter7f20Rx7fh4q1?key=xd8FhkLthdoguEhsAQakmg)
     
+**Example 2 :**
+
+<img width="737" alt="image" src="https://github.com/user-attachments/assets/811b128e-0b22-4f20-900b-070212287553" />
+
+
 ##### Dependency Inversion Principle:
 
   The **Dependency Inversion Principle (DIP)** is the last of the SOLID principles. It states that:

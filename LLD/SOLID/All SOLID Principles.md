@@ -23,15 +23,27 @@
 	- When We Try To Introduce a New Shape Called Triangle, then we might have to change the existing code which violates OCP. Instead we have to create abstract methods of calculate_area and calculate_perimeter and then create concrete classes for Rectangle and Circle. This will promote OCP as for triangle we have to create a new class and extend shapeCalculator. 
     
 
-- LSP:
-    
+- LSP: (**A child class should do everything that a parent class can do**)
+  
+	- Objects of a superclass should be replaceable with objects of a subclass without affecting the correctness of the program
+
 	- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJmKoAXVtupwTtaGD1dosghRos-9jZtfvtSagJFf-mXLHDaUVEez7Lg8ttRLSz6bC8mMlgoWoF9WJ3QE2C4zT4Hti0ya-R3rfmv24XtqHDwo-n1iAHMIvLFuLHm-F5rNyGSFwZaNQjWMbA4vCRdXjv7T4?key=xd8FhkLthdoguEhsAQakmg)
     
 	- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4lbMpySRTVsl9aNBe_kFfdKhrs7pSuGS6rufUeA5KPtb2wZctZQ49QvxUW6E7bBPbgOclWxK0q9HxkruYqXlW5i49_XTSgVV88PllvmxeuUODdZjtg2EUSiDMYHwMIVNmcz2Fp6V3BvrjvTokznVz1yk?key=xd8FhkLthdoguEhsAQakmg)
+
+
+**Example 2 for LSP:**
+- Class Parent --> eat(), sleep(), goToWork(), prepareDinner()
+- Class child Extends Parent --> cant prepareDinner() and cant goToWork()
+
+So correct way is to define something like 
+- Interface Human --> eat(), sleep()
+- Class Adult implements Human --> goToWork(), prepareDinner()
+- Class Child implements Human --> cry()
+
     
 - **ISP**:No client should be forced to depend on interfaces they don't use.
     
-
 	- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXduNHTJ3L0cNMbII4BmDqsKLwt9rGyvE1d8X84KHfe_mXNMwScai7zFyIikMhBrGyyKTiq-q27erNCrIl1Ctomq7MpP_EF2TXdmU2fZn0NyjUe7JbszDXwhQ8-TkkMWHGeRp0LW3RW-u43SLDuGIReZFgDN?key=xd8FhkLthdoguEhsAQakmg)
     
 	- ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcbjTkmWGlFiZ3teC_NlU9Q-EQz_u6gpCZJHUTo9p9FcGBnQBhtVwFRT1tcegr_4WQkyO6cZhO6bMsCIQXjaSDJUrJ-T_cfxSKbHVnNRWui3woJpZdykEuqy9DZ0B5de78CJFZseMKq6Ter7f20Rx7fh4q1?key=xd8FhkLthdoguEhsAQakmg)

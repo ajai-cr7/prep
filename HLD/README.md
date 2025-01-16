@@ -12,3 +12,4 @@
 Other People Notes found by surfing leetcode Interview experience :
 - https://github.com/liquidslr/system-design-notes/tree/main
   
+Cheat Sheet : https://systemdesign.one/system-design-interview-cheatsheet/#system-design-template

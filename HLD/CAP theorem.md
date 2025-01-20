@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/a8e55eb8-614b-430b-a88a-b721150fdb9b)
+![image](https://github.com/user-attachments/assets/93038e5e-5683-465e-aa41-0b0299eeb750)
+
 
 **Examples :**
 
@@ -20,3 +21,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/d0f6f21f-6a6f-4afc-9f36-777f029e47f7)
+
+**Other Acronyms :**
+
+![image](https://github.com/user-attachments/assets/eb731618-57d6-4008-b49b-656b65c5e552)

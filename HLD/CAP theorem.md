@@ -22,6 +22,11 @@
 
 ![image](https://github.com/user-attachments/assets/d0f6f21f-6a6f-4afc-9f36-777f029e47f7)
 
+**Consistencey vs Latency:** 
+
+![image](https://github.com/user-attachments/assets/b1daef5d-eec2-4293-94fe-9086bb0e22f5)
+
+
 **Other Acronyms :**
 
 ![image](https://github.com/user-attachments/assets/eb731618-57d6-4008-b49b-656b65c5e552)

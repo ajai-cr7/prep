@@ -1,3 +1,7 @@
+**- In a distributed system in case of network failure, we have to choose either availability or consistency and not both!**
+
+
+
 ![image](https://github.com/user-attachments/assets/93038e5e-5683-465e-aa41-0b0299eeb750)
 
 

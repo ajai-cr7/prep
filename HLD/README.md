@@ -9,7 +9,8 @@
 
 
 
-Other People Notes found by surfing leetcode Interview experience :
+**Other People Notes found by surfing leetcode Interview experience :**
 - https://github.com/liquidslr/system-design-notes/tree/main
+- List of Architecture diagrams: https://github.com/codekarle/system-design/tree/master/system-design-prep-material/architecture-diagrams
   
-Cheat Sheet : https://systemdesign.one/system-design-interview-cheatsheet/#system-design-template
+**Cheat Sheet :** https://systemdesign.one/system-design-interview-cheatsheet/#system-design-template

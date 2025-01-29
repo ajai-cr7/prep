@@ -10,7 +10,9 @@
 (Its structured and also thought it has 25+ Problems which will fill my current knowledge gap! Should take notes here and Revise!)
 (It also has UML diagrams)
 
-- interviewready.io --> Gaurav sen course!
+- interviewready.io --> Gaurav sen course! (Has good coding problems like design split wise, design distributed cache etc.)
+
+- https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md (Low level system design primer --> Sometimes solutions + Videos as Well Useful in Machine Coding Rounds + Design Round!)
 
 **Others :**
 - https://www.naukri.com/code360/library/low-level-design-lld (Beginner friendly with blogs explaining everything!)

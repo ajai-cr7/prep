@@ -7,4 +7,8 @@ Design Entities (User, Activity(Dog history), Dog, Facility)
 
 - First Discussed Use Cases and Edge Cases!
 - Discussed API's Which Helped Me in Establishing the Entities and SCHEMA!
-- Since we use ORM class diagram is similar to db schema diagram!
+- Since we use ORM class diagram is similar to DB Schema Diagram!
+
+
+
+- In 1 hour interview equal weightage is to behavioural and LLD! (SOLID and Design Patterns wasn't needed to discuss!)

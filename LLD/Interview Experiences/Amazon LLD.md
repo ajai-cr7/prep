@@ -1,8 +1,12 @@
 Dog Daycare Application!
+
 Design Entities (User, Activity(Dog history), Dog, Facility)
+
     - Dog and User is Related via Foreign Key Relation!
     - 10k dogs maximum in one Facility!
+    
  Design DB Schema
+ 
  Design APIS (Very Important) --> This was helpful.
 
 - First Discussed Use Cases and Edge Cases!

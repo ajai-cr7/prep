@@ -105,7 +105,7 @@ class SlackNotifier extends NotifierDecorator {
 }
 
 // Step 5: Test the Singleton Decorator Pattern
-public class NotificationSystemSingleton {
+class Decorator {
     public static void main(String[] args) {
         // Basic notification
         Notifier basicNotifier = new BasicNotifier();

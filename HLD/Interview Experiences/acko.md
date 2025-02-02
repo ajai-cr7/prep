@@ -63,3 +63,4 @@ is what he told --> Somewhere in the system we have to precompute it and not jus
 - The choice of DB i told is cassandra --> Idk why i told this apart from any other nosql dbs like mongodb. (I told it as it will be suitable for
   distributed data store + used in write-heavy systems)
 - I should Understand how to design a system design db schema and what fields to be included in that design! This is very important and also neeed to understand how to write query further!
+- Should practice drawing in excelidraw!

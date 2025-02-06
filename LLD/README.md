@@ -17,3 +17,9 @@
 **Others :**
 - https://www.naukri.com/code360/library/low-level-design-lld (Beginner friendly with blogs explaining everything!)
 - https://leetcode.com/discuss/interview-question/object-oriented-design?currentPage=1&orderBy=hot&query= --> See Recent questions asked and also exact questions asked in interview!
+
+
+
+**Notes:**
+
+- When Collecting Requirements, think about what parameters can be choosed so that design can be extensible for Future! This is very very important for an LLD Interview or Machine Coding Interview!

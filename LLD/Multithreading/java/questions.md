@@ -8,3 +8,5 @@ If there is an ongoing read OR wrtie, you should block the write
 
 - Implement a multithreaded rate limiter : https://leetcode.com/discuss/interview-question/124558/Implement-a-Rate-Limiter/
 - Implement multithreaded crawling algorithm which would be feeded a source url.
+- Uber | Implement ScheduledExecutorService
+https://leetcode.com/discuss/interview-question/341504/Uber-or-Implement-ScheduledExecutorService

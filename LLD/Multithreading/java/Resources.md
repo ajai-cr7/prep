@@ -18,3 +18,6 @@
     - Youtube : (Many playlists are good)
         - https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4
         - https://www.youtube.com/playlist?list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx
+
+
+<img width="818" alt="image" src="https://github.com/user-attachments/assets/fe62f21f-91eb-476f-aac3-a6babd429831" />

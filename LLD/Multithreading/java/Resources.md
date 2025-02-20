@@ -20,4 +20,5 @@
         - https://www.youtube.com/playlist?list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx
 
 
-<img width="818" alt="image" src="https://github.com/user-attachments/assets/fe62f21f-91eb-476f-aac3-a6babd429831" />
+
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/687f8ce5-1f16-442f-9f02-2c7a97bb20a5" />

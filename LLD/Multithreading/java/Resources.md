@@ -21,6 +21,7 @@ The more problems you solve, the more confident you'll become in managing thread
     - Youtube : (Many playlists are good)
         - https://www.youtube.com/playlist?list=PLL8woMHwr36EDxjUoCzboZjedsnhLP1j4
         - https://www.youtube.com/playlist?list=PL6W8uoQQ2c63f469AyV78np0rbxRFppkx
+        - https://www.youtube.com/playlist?list=PLhfHPmPYPPRk6yMrcbfafFGSbE2EPK_A6
 
 
 

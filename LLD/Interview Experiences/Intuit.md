@@ -1,0 +1,1 @@
+- Machine code : Question Based On Queue and priority and write JAVA code!

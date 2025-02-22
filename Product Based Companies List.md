@@ -1,0 +1,104 @@
+**TOP Paying & Good product based companies**
+
+Salesforce
+Adobe
+Flipkart
+cult fit
+Makemytrip
+Oracle
+Cisco
+Paypal
+Walmart
+ServiceNow
+Intuit
+Goldmann sachs
+Urban company
+Dream 11
+Sharechat
+Swiggy
+Udaan
+Gojek
+Hotstar
+Tekion corp
+Zeta
+Vmware
+Zomato
+Upstox
+Google
+Meta
+Apple
+Uber
+JP morgan chase
+Hover
+MiQ
+Tower research
+LinkedIn
+De shaw
+Arcesium
+Myntra
+Jio
+Mozilla
+Red bus
+Meesho
+Groww
+Phonepe
+Pharmeasy
+Palo Alto Networks
+Pinterest
+Postman
+Prophecy
+Rakuten
+Razorpay
+Reddit
+Redhat
+Rippling
+Rivigo
+Roblox
+Rubrik
+Rupeek
+Rupify
+Samsuung
+Slack
+Splunk
+Sprinklr
+Stripe
+Twitter
+Zscaler
+Airbnb
+Alphonso
+Amazon
+Apna
+Atlassian
+Blackbuck
+Booking.com
+Browserstack
+Codenation
+Cohesity
+CoinDCX
+CoinBase
+Coinswitch Kuber
+Confluent
+Cred
+Discord
+Doordash
+Dunzo
+Eightfold.ai
+Expedia
+Freshworks
+Gojek
+Indeed
+Intuit
+Media.net
+Microsoft
+Mindtickle
+Mobikwiq
+Morgan Stanley
+Navi
+Netflix
+Ninjacart
+Notion
+Nutanix
+Nvidia
+
+
+Focus on : E-commerce based, development based work, kind of Mid-Startup is Fine!

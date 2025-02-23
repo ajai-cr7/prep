@@ -1,14 +1,20 @@
 
 **Types of Questions:**
+
     - Implementation of java exercises! (Eg : Print Series!)
+    
     - Famous problems and their applications like producer-consumer problem with code implementation!
+    
     - Realtime systems  -> Eg : Movie ticket booking or any ad-hoc task using read and write --> Explain solution and implement code optimally and quickly! (Most commonly coming in interviews!)
 
 **Google L4 Engineer:**
 
 - Say we have a list of intergers as our database. Design a class with the following functions:
+
 read(index:int): Everyone can read from this list wihout getting blocked (you can read by passing index to a function)
+
 write(val: int): We can write to this list by appending an integer to the list
+
 If there is an ongoing read OR wrtie, you should block the write
 
 **Other Questions:**

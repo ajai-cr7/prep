@@ -38,3 +38,55 @@ class Foo {
     6. Exchanger / CyclicBarrier / CountDownLatch
 
 */
+
+/*
+🔑 What is IllegalMonitorStateException?
+This exception happens when:
+
+A thread calls wait(), notify(), or notifyAll() without owning the lock on that object.
+*/
+
+class Foo {
+
+    volatile boolean odd, even;
+
+    public Foo() {
+        odd = true;
+        even = true;
+    }
+
+    public synchronized void first(Runnable printFirst) throws InterruptedException {
+        // printFirst.run() outputs "first". Do not change or remove this line.
+        printFirst.run();
+        odd = false;
+        notifyAll();
+    }
+
+    // If we forget synchronized keyword, then it will throw illegalMonitoringException - current thread is not owner!
+    public synchronized void second(Runnable printSecond) throws InterruptedException {
+        while (odd) {
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                throw e;
+            }
+        }
+        // printSecond.run() outputs "second". Do not change or remove this line.
+        printSecond.run();
+        even = false;
+        notifyAll();
+
+    }
+
+    public synchronized void third(Runnable printThird) throws InterruptedException {
+        while (even) {
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                throw e;
+            }
+        }
+        // printThird.run() outputs "third". Do not change or remove this line.
+        printThird.run();
+    }
+}

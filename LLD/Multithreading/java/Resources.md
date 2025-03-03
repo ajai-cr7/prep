@@ -163,3 +163,7 @@ I completely understand that jumping into multithreading can feel overwhelming, 
 6. **Learn By Doing**: The more problems you solve, the more confident you'll become in managing threads in Java.
 
 By tackling these problems, you'll cover a wide range of concepts in multithreading and concurrency, from basic synchronization to advanced topics like thread pooling, deadlock prevention, and asynchronous programming with `CompletableFuture`.
+
+
+
+<img width="1107" alt="image" src="https://github.com/user-attachments/assets/9f7f4e35-b346-4186-bef7-e3bc1863bce6" />

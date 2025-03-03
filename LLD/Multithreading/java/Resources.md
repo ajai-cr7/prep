@@ -11,6 +11,7 @@
         - https://github.com/Beerkay/JavaMultiThreading/blob/master/JavaMultiThreadingCodes/src/VolatileKeyword_2/App.java
         - https://github.com/oldratlee/fucking-java-concurrency/blob/master/src/main/java/fucking/concurrency/demo/ReentrantLockLivelockDemo.java (1k stars)
         - https://github.com/PacktPublishing/Java-Concurrency-Multithreading-in-Practice/blob/master/src/main/java/com/packt/tfesenko/multithreading/section1/AppleTree.java
+        - https://github.com/eugenp/tutorials/blob/master/core-java-modules/core-java-concurrency-basic/src/main/java/com/baeldung/concurrent/completablefuture/threadpool/CustomCompletableFuture.java
 
     - **Interview Questions** : https://github.com/learning-zone/java-basics/blob/master/multithreading-questions.md
 

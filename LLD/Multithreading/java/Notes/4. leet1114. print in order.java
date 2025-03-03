@@ -39,6 +39,10 @@ class Foo {
 
 */
 
+
+//Approach 2 : 
+
+
 /*
 🔑 What is IllegalMonitorStateException?
 This exception happens when:
@@ -90,3 +94,21 @@ class Foo {
         printThird.run();
     }
 }
+
+/*
+
+The wait() and notifyAll() methods always require the current thread to own the intrinsic lock of the object.
+
+An "intrinsic lock" in Java is a built-in lock mechanism associated with every object, essentially acting as a "key" that ensures only one
+thread can access and modify the object's state at a time, preventing race conditions when multiple threads try to access the same data;
+it's also known as a "monitor lock". 
+
+Key points about intrinsic locks:
+
+- Every object has one: Every object created in Java automatically has its own intrinsic lock. 
+- Exclusive access: When a thread acquires an object's intrinsic lock, it gains exclusive access to that object, 
+    preventing other threads from modifying its state until the lock is released. 
+- Synchronized keyword: In Java, the "synchronized" keyword is used to explicitly mark code blocks that require access to an object's 
+    intrinsic lock. 
+    
+*/

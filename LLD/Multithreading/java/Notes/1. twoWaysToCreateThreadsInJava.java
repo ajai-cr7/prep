@@ -7,19 +7,21 @@ public class twoWaysToCreateThreadsInJava
         t1.start();
 
         // Approach 2 :
-        Thread t2 = new Thread(new approach2());
+        Thread t2 = new Thread(new approach2()); //pass instance of runnable interface to thread object!
         t2.start();
+
+        // Approach 3 : Use Lambdas!
     }
 }
 
-class approach1 extends Thread{
+class approach1 extends Thread{ //Inheritance!
     @Override
     public void run(){
         System.out.println("This thread extends Thread class and overrides run method!");
     }
 }
 
-class approach2 implements Runnable{
+class approach2 implements Runnable{ //Concrete class implementation!
     @Override
     public void run(){
         System.out.println("This thread implements runnable interface and overrides run method!");

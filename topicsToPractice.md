@@ -12,3 +12,23 @@
 5. DSA --> Top Interview Questions and Patterns in educative.io and Similar Problems of Blind 75 etc, Doing Lot of Contests!
 6. HLD --> Alex Xu book and educative io concepts/shreyansh jain yt tutorials.
 7. commonly asked FAQ questions in java8, sql,multithreading etc.. 
+
+Example: Is below code correct or wrong? See other questions in polymorphism and inheritance and overloading and overriding --> Code Snippets!
+(See in YouTube)
+
+import java.util.*;
+public class Main
+{
+    
+    public static int add(int i,int j){
+        return i+j;
+    }
+    public static int add(long i,long j){
+        return 1;
+    }
+    
+	public static void main(String[] args) {
+	    int i=1,j=2;
+        add(i,j);
+	}
+}

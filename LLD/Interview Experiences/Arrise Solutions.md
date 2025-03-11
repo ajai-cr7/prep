@@ -170,3 +170,26 @@ HM round 4:
 	19) Fast forward and non fast forward
 	20) Origin and upstream
 	21) Ask questions
+
+
+**Next Round:**
+- What is issue with below code. Is this code correct? Why it works and why not other one works? (Lots of followUps)
+(Say more about polymorphism + its types and when to use composition/inheritance)
+
+  
+```java
+import java.util.*;
+public class Main
+{
+    
+    public static int add(int i,int j){
+        return i+j;
+    }
+    public static int add(long i,long j){
+        return 1;
+    }
+    public static void main(String[] args) {
+	add(1,2)
+    }
+}
+```

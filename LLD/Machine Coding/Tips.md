@@ -17,3 +17,7 @@
 - See lot of other solutions and try to refactor them as needed! (https://github.com/ashishps1/awesome-low-level-design/tree/main). Try to code one on your own. Then try to ReFactor and also ask CHATGPT/GENAI for evaluation! This is correct practice as i'll do some coding - write some stream functions and also i can do java 21 as well!
 
 - https://github.com/prasadgujar/low-level-design-primer/blob/master/solutions.md
+
+
+![image](https://github.com/user-attachments/assets/01e0e562-0438-48dd-b9eb-072a1b8d23a9)
+

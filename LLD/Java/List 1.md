@@ -12,3 +12,9 @@
 
 
 2. 
+![image](https://github.com/user-attachments/assets/8d4914ef-2f33-43e6-a36a-f3e4a490d592)
+
+
+3. String "+" vs Concat? (+ will add numeric operators as well while Concat wont)
+
+4. What is WeakReference in Java?

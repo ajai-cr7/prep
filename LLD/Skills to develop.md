@@ -16,3 +16,6 @@ Skills to Develop and Practice :
 - Deep dive on multithreading.
 - SQL deep dive. Learn top 20 asked questions. Including window functions, procedures.
 - Top java questions. Tricky program snippets in Java/ Spring Boot.
+- Look at lot of existing repository codes. Try to Learn them and use it in required places. Like exceptions folder.
+
+Work on a **open source project**. See how they have handled writing functional programming code that is modular, thread safe and ahdering to solid principles and patterns. 

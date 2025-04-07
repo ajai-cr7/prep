@@ -1,0 +1,2 @@
+- In a lld, its good to put SCHEMA diagram to understand relationship between entities.
+- We have to put class diagram as well, through which we can define interfaces and abstract classess and can speak more about SOLID and Design Patterns and also there will be room for feature extensibility!

@@ -14,3 +14,5 @@ Skills to Develop and Practice :
 - Learn how to use top 10 design patterns throughly and apply it in code.
 - Write Functional programming code (eg : Streams in java)
 - Deep dive on multithreading.
+- SQL deep dive. Learn top 20 asked questions. Including window functions, procedures.
+- Top java questions. Tricky program snippets in Java/ Spring Boot.

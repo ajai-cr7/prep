@@ -18,4 +18,7 @@ Skills to Develop and Practice :
 - Top java questions. Tricky program snippets in Java/ Spring Boot.
 - Look at lot of existing repository codes. Try to Learn them and use it in required places. Like exceptions folder.
 
-Work on a **open source project**. See how they have handled writing functional programming code that is modular, thread safe and ahdering to solid principles and patterns. 
+
+**Others:**
+- Work on a **open source project**. See how they have handled writing functional programming code that is modular, thread safe and ahdering to solid principles and patterns. 
+- Watch YouTube videos / educative.io courses.

@@ -15,6 +15,7 @@
 **Other People Notes found by surfing leetcode Interview experience :**
 - https://github.com/liquidslr/system-design-notes/tree/main
 - List of Architecture diagrams: https://github.com/codekarle/system-design/tree/master/system-design-prep-material/architecture-diagrams
+- https://www.hellointerview.com/learn/system-design/problem-breakdowns/whatsapp#staff (Hello Interview)
   
 **Cheat Sheet :** https://systemdesign.one/system-design-interview-cheatsheet/#system-design-template
 

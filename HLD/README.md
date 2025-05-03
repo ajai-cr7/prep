@@ -14,6 +14,12 @@
 **You Tube :**
 - Jordan has no life yt channel playlist of system design 2.0!
 - System Design Fight Club!
+- Hello Interview!
+- Tushar Roy!
+- CodeKarle!
+- ByteByteGo
+(Research specific questions and see in YT and various other resources!)
+
 
 (
 **How to learn?** :

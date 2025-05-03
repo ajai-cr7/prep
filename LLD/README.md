@@ -5,6 +5,8 @@
 
 - https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles
 
+- https://codewitharyan.com/system-design/low-level-design (FREE)
+
 (Buying the course during black friday sale!)
 
 (Its structured and also thought it has 25+ Problems which will fill my current knowledge gap! Should take notes here and Revise!)

@@ -5,19 +5,19 @@ an in-memory search engine, supporting the search functionality on the blog cont
 
 Requirements:
 -----
-It should be possible to create a dataset in the search engine. 
-It should be possible to insert and delete documents in a given dataset. Each document is simply a piece of text.
-It should be possible to search through documents for a search pattern in a given dataset. 
-It should be possible to order the search results
-Search Pattern: Initially search pattern would be sequence of words, but can be extensible for different search patterns:
-  Sequence of words containing words
-  Sequence of words containing words maintaining the order
-  Sequence of words containing words maintaining the order in sequence(substring)
-Ordering Logic: Initially ordering pattern would be latest published article, but can be extensible for different search patterns:
-  Ordering can be recently published articles
-  Ordering can be recently updated articles
-  Ordering can be recently searched articles
-  Ordering can be done based on Author.
+- It should be possible to create a dataset in the search engine. 
+- It should be possible to insert and delete documents in a given dataset. Each document is simply a piece of text.
+- It should be possible to search through documents for a search pattern in a given dataset. 
+- It should be possible to order the search results
+- Search Pattern: Initially search pattern would be sequence of words, but can be extensible for different search patterns:
+  - Sequence of words containing words
+  - Sequence of words containing words maintaining the order
+  - Sequence of words containing words maintaining the order in sequence(substring)
+- Ordering Logic: Initially ordering pattern would be latest published article, but can be extensible for different search patterns:
+  - Ordering can be recently published articles
+  - Ordering can be recently updated articles
+  - Ordering can be recently searched articles
+  - Ordering can be done based on Author.
 
 
 Apple is 
@@ -30,8 +30,11 @@ Examples
 Search term: apple 
 
 Doc1: apple is a fruit 
+
 Doc2: apple, apple come on!
+
 Doc3: oranges are sour
+
 Doc4: apple-pie is sweet
 
 [Doc2, Doc1, Doc4] or [Doc2, Doc4, Doc1]
@@ -39,19 +42,19 @@ Doc4: apple-pie is sweet
 
 **Other Requirements :**
 
-It should be possible to create a category in the search engine.
-It should be possible to insert and delete documents in a given category.
-It should be possible to search through documents for a search pattern in a given category.
-It should be possible to sort the search results : Sorting based upon the lastUpdatedDate and createdAt
+- It should be possible to create a category in the search engine.
+- It should be possible to insert and delete documents in a given category.
+- It should be possible to search through documents for a search pattern in a given category.
+- It should be possible to sort the search results : Sorting based upon the lastUpdatedDate and createdAt
 
 Approach: Gathered the requirements like:
 
-no case sensitive
-a document can belong to multiple categories
-should the sorting be stable?
-Let's say we search for python, and in the document if multiple documents have the python
+- no case sensitive
+- a document can belong to multiple categories
+- should the sorting be stable?
+- Let's say we search for python, and in the document if multiple documents have the python
 then sort it on the basis of the occurrences i.e. Higher frequencey one should come at the top basically desc order
-document content will be less than 2000
+- document content will be less than 2000
 
 
 

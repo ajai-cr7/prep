@@ -64,3 +64,16 @@ Superclass obj = new Subclass(); (Dynamic method dispatch or runtime method reso
 17. Method hiding in Java occurs when a subclass defines a static method with the exact same signature (method name and parameters) as a static method in its superclass. In this scenario, the static method in the subclass effectively "hides" or "shadows" the static method in the superclass. 
 
 18. Abstract classess cannot be instantiated. They can only be interhited by concrete classess and called back.
+
+19. consider a abstract super class or parent class,
+| Can a subclass...                          | Answer |
+| ------------------------------------------ | ------ |
+| Implement abstract methods from superclass | ✅ Yes  |
+| Override concrete methods from superclass  | ✅ Yes  |
+| Define new methods not in the superclass   | ✅ Yes  |
+| Be instantiated (if not abstract itself)   | ✅ Yes  |
+  If we define a abstract method in abstract class, then 100% we have to implement it in concrete classess. You can define additional methods in concrete class which aren't there in abstract class. Same goes for interface as well. But interface doesnt allow concrete implementations apart from default methods.
+
+20. Generics in java. Covariant types in java. Autoboxing in java. Type Erasure in Java.
+
+21. 

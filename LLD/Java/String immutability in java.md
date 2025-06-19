@@ -2,7 +2,7 @@
 
 ---
 
-### 🔒 Short Answer:
+### 🔒 Short Answer: IF its mutable, then it creates lot of problems.
 
 **Strings are immutable in Java to ensure:**
 

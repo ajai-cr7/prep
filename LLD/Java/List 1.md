@@ -57,6 +57,6 @@ System.out.println(s1.equals(s2));  // ? true
 
 15. In Java, a final method is a method that has been declared with the final keyword. The primary characteristic of a final method is that it cannot be overridden by subclasses.An **abstract method** cannot be final, because abstract methods are meant to be implemented by subclasses, while final methods prevent such implementation changes.
 
-16. In depth explanation of Polymorhphism in java (Runtime polymorhism and Compile Time Polymorphism). Also see the code snippets regarding the same (Predict the output kind of code snippets)
+16. In depth explanation of Polymorhphism in java (Runtime polymorhism and Compile Time Polymorphism). Also see the code snippets regarding the same (Predict the output kind of code snippets) (UpCasting and downCasting)
 
 17. Method hiding in Java occurs when a subclass defines a static method with the exact same signature (method name and parameters) as a static method in its superclass. In this scenario, the static method in the subclass effectively "hides" or "shadows" the static method in the superclass. 

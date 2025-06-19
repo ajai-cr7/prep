@@ -305,3 +305,27 @@ public class Main {
 # Need help with examples, generics, or any specific use cases?
 
 Feel free to ask!
+
+
+Example : 
+```java
+class A {
+    A get() {
+        return this;
+    }
+}
+
+class B extends A {
+    B get() {
+        return this;
+    }
+}
+
+class Test {
+    public static void main(String[] args) {
+        new B().get();
+        System.out.println("Success");
+    }
+}
+
+```

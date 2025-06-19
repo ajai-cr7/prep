@@ -1,0 +1,2 @@
+- https://www.geeksforgeeks.org/java/output-java-programs-set-50/
+- chatGPT

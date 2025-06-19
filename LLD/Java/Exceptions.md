@@ -1,2 +1,3 @@
 - Checked Exceptions
 - Unchecked Exceptions
+- HOw it works with overridden methods of checked and unchecked exceptions.

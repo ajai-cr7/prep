@@ -86,5 +86,6 @@ Superclass obj = new Subclass(); (Dynamic method dispatch or runtime method reso
 21.         A obj = new C();
 obj is a reference of type A, but it points to an instance of C.
 
-
-
+22. Important point: Static methods are not polymorphic!
+Static methods belong to the class, not instances.
+Method calls to static methods are resolved at compile time based on the reference type, not the object’s runtime type.

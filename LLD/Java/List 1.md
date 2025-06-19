@@ -83,4 +83,8 @@ Superclass obj = new Subclass(); (Dynamic method dispatch or runtime method reso
 
 20. Generics in java. Covariant types in java. Autoboxing in java. Type Erasure in Java.
 
-21. 
+21.         A obj = new C();
+obj is a reference of type A, but it points to an instance of C.
+
+
+

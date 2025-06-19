@@ -62,3 +62,5 @@ System.out.println(s1.equals(s2));  // ? true
 Superclass obj = new Subclass(); (Dynamic method dispatch or runtime method resolution. JVM sees which classe's method to call only in runtime after recognizing the type of the object)
 
 17. Method hiding in Java occurs when a subclass defines a static method with the exact same signature (method name and parameters) as a static method in its superclass. In this scenario, the static method in the subclass effectively "hides" or "shadows" the static method in the superclass. 
+
+18. Abstract classess cannot be instantiated. They can only be interhited by concrete classess and called back.

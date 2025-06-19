@@ -41,4 +41,21 @@
 
 10. super keyword in java.
 
-11. 
+11. What is the difference between == and .equals() for Strings?
+== compares references, .equals() compares values.
+
+String s1 = "hello";
+String s2 = new String("hello");
+System.out.println(s1 == s2);       // ? false
+System.out.println(s1.equals(s2));  // ? true
+
+12. Reflections in java. (Used to inspect classes and objects. used with annotations as a replacement of instanceOf)
+
+13. Marker INterface (empty interface - no data members and member functions) --> like annotations we use it before java 8. (Serializable, Cloneable, Remote). Its Nothing But a MetaData to the Compiler that says a special use case.
+
+14. There are lot of trickier questions that can be asked using static, final, finally, overriding static or final methods, abstract etc.
+
+15. In Java, a final method is a method that has been declared with the final keyword. The primary characteristic of a final method is that it cannot be overridden by subclasses.An **abstract method** cannot be final, because abstract methods are meant to be implemented by subclasses, while final methods prevent such implementation changes.
+
+16. 
+
